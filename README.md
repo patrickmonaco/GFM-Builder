@@ -14,5 +14,5 @@ Import GFM Sample Store
 Run GFM Builder
 
 All details about GFM Builder are available in this article. 
-https://gpmfactory.com/wp-admin/post.php?post=4993
+https://gpmfactory.com/index.php/2022/09/27/form-builder-tool-for-oracle-apex/
 
