@@ -9,3 +9,7 @@ A common use case is to trigger an administrative process based on informations 
 
 Usage
 Import the file GFM Builder into an Oracle APEX Instance (v22.1 minimum)
+
+All details about GFM Builder are available in this article. 
+https://gpmfactory.com/wp-admin/post.php?post=4993
+
