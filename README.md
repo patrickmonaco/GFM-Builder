@@ -7,12 +7,13 @@ GFM Builder addresses mainly companies intranet requirements but citizen portals
 
 A common use case is to trigger an administrative process based on informations provided by an employee or a citizen. ie: renewal contrat, ordering internal good, signaling problem in a district, etc.
 
-Usage
-Import the file GFM Builder into an Oracle APEX Instance (v22.1 minimum)
-Enroll any user and give him Administrator role  in the Shared Components / Application Access Control
-Import GFM Sample Store
-Run GFM Builder
+Installation
 
-All details about GFM Builder are available in this article. 
+1. Import the file GFM Builder into an Oracle APEX Instance (v22.1 minimum)
+2. Enrol any user and give him Administrator role  in the Shared Components / Application Access Control
+3. Import GFM Sample Store
+4. Run GFM Builder
+
+All details about GFM Builder are available in this article:  
 https://gpmfactory.com/index.php/2022/09/27/form-builder-tool-for-oracle-apex/
 
